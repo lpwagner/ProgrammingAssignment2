@@ -63,4 +63,4 @@ cacheSolve <- function(x, ...) {
     inverse <- solve(data, ...)
     x$setInverse(inverse)
     inverse
-}
+} testing
